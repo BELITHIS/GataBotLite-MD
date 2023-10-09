@@ -17,8 +17,8 @@ global.owner = [
 ['595975740803', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
 ['593968585383'], ['5492266466080'], ['5217294888993'], ['5492266613038'], ['51906662557']]
 
-global.mods = [] 
-global.prems = []
+global.mods = [15053751937] 
+global.prems = [15053751937]
    
 // ES ➜ Agregue el código de idioma el cual usará GataBot  
 // EN ➜ Add the language code which GataBot will use
@@ -27,8 +27,8 @@ global.prems = []
 global.lenguajeGB = es  //<-- Predeterminado en idioma Español 
 
 // confirmación en el ajuste de idioma y owner en la consola
-global.languageLen = ""
-global.registerNumber = ""
+global.languageLen = "es"
+global.registerNumber = "15053751937"
 
 // ES ➜ Consigue Apikey en https://platform.openai.com/account/api-keys
 global.openai_key = 'sk-0'
